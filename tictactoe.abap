@@ -1,3 +1,5 @@
+REPORT z32324107_tictactoe.
+
 DATA:
   f0        TYPE z32324_107_tictactoe_feld_de VALUE '_',
   f1        TYPE z32324_107_tictactoe_feld_de VALUE '_',
