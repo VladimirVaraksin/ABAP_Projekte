@@ -1,3 +1,5 @@
+REPORT z32324107_hangman_isrt_words.
+
 *Ein Skript, um die Wörter in die Tabelle z32324107_hm_wds einzufügen
 
 *Ihre Tabelle hier
